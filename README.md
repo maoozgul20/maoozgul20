@@ -51,26 +51,37 @@ I'm currently aiming to pursue a **Master's degree** and contribute to research 
 <tr>
 <td width="50%" valign="top">
 
-**🧠 AI-Generated Content Detection**
-Detecting AI-written text as a step toward broader synthetic-media detection, with a focus on explainability.
-`Python` `PyTorch` `Streamlit`
+**EmployeeDB: PHP & MySQL CRUD**
+Developed a web-based employee management system using PHP, MySQL, HTML, CSS, JavaScript, and XAMPP.
+Implemented complete CRUD operations: Insert, Select, Search, Update, and Delete.
+Added server-side validation, prepared statements for SQL injection protection, reusable database functions, and responsive UI features.
 
 </td>
 <td width="50%" valign="top">
 
-**🛡️ AI-Based Intrusion Detection**
-Final-year project: ML detection of suspicious network behavior and zero-day attacks across CIC-IDS2017, CSE-CIC-IDS2018, UNSW-NB15 & CIC-DDoS2019.
-`scikit-learn` `Random Forest`
+**SpendWise — Personal Finance Management Web App | Completed**
+Developed a responsive personal finance dashboard using React and Vite for tracking income, expenses, budgets, and savings.
+Implemented transaction management, category filtering, monthly budget tracking, income/expense charts, and spending insights.
+Used localStorage for offline data persistence with no backend or user accounts.
+Added light/dark mode, responsive mobile layout, and a modern interactive UI.`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🌱 Smart IoT Plant Monitoring**
-Environmental sensing and automated irrigation on an IoT setup.
-`IoT` `Sensors`
+**Advance Weather App (HTML, CSS & JavaScript)**
+🌤️ Real-time weather information using OpenWeatherMap API
 
+🎨 Modern glassmorphism UI with dynamic backgrounds
+
+🔍 Search for any city to get current weather details
+
+🖼️ Animated display of weather details and transitions
+
+🌐 Fully responsive and mobile-friendly design
+
+🎯 Includes temperature, humidity, pressure, visibility, condition, and more
 </td>
 <td width="50%" valign="top">
 
