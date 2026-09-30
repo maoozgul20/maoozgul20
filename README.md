@@ -85,9 +85,10 @@ Added light/dark mode, responsive mobile layout, and a modern interactive UI.`
 </td>
 <td width="50%" valign="top">
 
-**🏫 Smart Campus Web App**
-Web-based platform providing digital campus services and information.
-`HTML5` `CSS3`
+**🏫 Smart Campus Web App running Fyp**
+Developing an AI-based Smart Campus system using intelligent technologies for campus services, monitoring, and resource management.
+Designing a 3D campus environment to visualize campus facilities, information, and resources.
+Working on AI-based system development, data processing, and system evaluation.
 
 </td>
 </tr>
