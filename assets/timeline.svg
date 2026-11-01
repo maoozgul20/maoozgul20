@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="Education and experience timeline">
+  <defs>
+    <linearGradient id="line" x1="150" y1="0" x2="1050" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7C5CFF"/><stop offset="0.5" stop-color="#33E0C4"/><stop offset="1" stop-color="#FF4FD8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="210" rx="20" fill="#0b0f1a"/>
+  <line x1="150" y1="70" x2="1050" y2="70" stroke="#ffffff" stroke-opacity="0.08" stroke-width="4" stroke-linecap="round"/>
+  <line x1="150" y1="70" x2="1050" y2="70" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-dasharray="900" stroke-dashoffset="900">
+    <animate attributeName="stroke-dashoffset" from="900" to="0" dur="2.2s" begin="0.3s" fill="freeze"/>
+  </line>
+  <line x1="150" y1="70" x2="1050" y2="70" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-dasharray="40 860" opacity="0.8">
+    <animate attributeName="stroke-dashoffset" values="900;0" dur="3s" begin="2.5s" repeatCount="indefinite"/>
+  </line>
+  
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.6s" fill="freeze"/>
+    <circle cx="150" cy="70" r="16" fill="none" stroke="#7C5CFF" stroke-width="2">
+      <animate attributeName="r" values="12;26" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="70" r="11" fill="#7C5CFF"/>
+    <circle cx="150" cy="70" r="4" fill="#0b0f1a"/>
+    <text x="150" y="125" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#7C5CFF">2022 – 2026</text>
+    <text x="150" y="155" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">BS Computer Science</text>
+    <text x="150" y="181" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9aa4c7">Qurtuba University, Peshawar</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.6s" fill="freeze"/>
+    <circle cx="450" cy="70" r="16" fill="none" stroke="#33E0C4" stroke-width="2">
+      <animate attributeName="r" values="12;26" dur="2s" begin="1.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="2s" begin="1.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="70" r="11" fill="#33E0C4"/>
+    <circle cx="450" cy="70" r="4" fill="#0b0f1a"/>
+    <text x="450" y="125" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#33E0C4">Jun – Aug 2024</text>
+    <text x="450" y="155" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Intern</text>
+    <text x="450" y="181" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9aa4c7">ISPR, Pakistan Army</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.6s" fill="freeze"/>
+    <circle cx="750" cy="70" r="16" fill="none" stroke="#FF4FD8" stroke-width="2">
+      <animate attributeName="r" values="12;26" dur="2s" begin="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="2s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="750" cy="70" r="11" fill="#FF4FD8"/>
+    <circle cx="750" cy="70" r="4" fill="#0b0f1a"/>
+    <text x="750" y="125" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#FF4FD8">Aug 2024 – Jan 2025</text>
+    <text x="750" y="155" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Graphic Designer</text>
+    <text x="750" y="181" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9aa4c7">Travel Agency, Peshawar</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.6s" fill="freeze"/>
+    <circle cx="1050" cy="70" r="16" fill="none" stroke="#ffb547" stroke-width="2">
+      <animate attributeName="r" values="12;26" dur="2s" begin="2.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="2s" begin="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="70" r="11" fill="#ffb547"/>
+    <circle cx="1050" cy="70" r="4" fill="#0b0f1a"/>
+    <text x="1050" y="125" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#ffb547">Next</text>
+    <text x="1050" y="155" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Master's in AI &amp; Security</text>
+    <text x="1050" y="181" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#9aa4c7">Applying now</text>
+  </g>
+</svg>
