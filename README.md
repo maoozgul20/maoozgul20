@@ -44,8 +44,7 @@
 
 ### 📊 GitHub stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maoozgul20&show_icons=true&hide_border=true&count_private=true&bg_color=0d0e16&title_color=a78bfa&icon_color=22d3ee&text_color=d6dcff&ring_color=f472b6" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maoozgul20&layout=compact&hide_border=true&bg_color=0d0e16&title_color=a78bfa&text_color=d6dcff" alt="Top languages"/>
+<img src="./assets/stats.svg?v=1" alt="GitHub stats" width="100%"/>
 
 <br/><br/>
 
